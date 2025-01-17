@@ -25,6 +25,11 @@ IslaMap does not directly collect any personally identifiable information from u
    - Our app includes redirection links to travel sites through Travelpayouts services. These services may use your location data to provide localized content and offers.
    - Information collected by Travelpayouts is governed by their privacy policy.
    - Please consult the [Travelpayouts Privacy Policy](https://support.travelpayouts.com/hc/en-us/sections/360001184172-Terms-and-policies) for more information.
+  
+4. **Flagpedia API**
+   - We use the **Flagpedia API** to retrieve and display country flags within IslaMap.
+   - This API may collect non-personal data such as server logs for monitoring and performance purposes.
+   - For more information, please refer to the [Country Flags API Privacy Policy](https://flagpedia.net/privacy-policy).
 
 ## Log Data
 
