@@ -1,10 +1,10 @@
-# Privacy Policy for IslaMap
+# Privacy Policy for Islamap
 
 **Last updated:** *[17/01/2025]*
 
-At **whtvrst**, accessible through the IslaMap app on Google Play, one of our main priorities is the privacy of our users. This Privacy Policy document outlines the types of information that are collected and recorded by IslaMap and how we use it.
+At **whtvrst**, accessible through the Islamap app on Google Play and App Store, one of our main priorities is the privacy of our users. This Privacy Policy document outlines the types of information that are collected and recorded by IslaMap and how we use it.
 
-By using IslaMap, you agree to the collection and use of information in accordance with this policy.
+By using Islamap, you agree to the collection and use of information in accordance with this policy.
 
 ## Information Collection and Use
 
@@ -13,7 +13,7 @@ IslaMap does not directly collect any personally identifiable information from u
 ### Third-Party Services
 
 1. **Google AdMob**
-   - We utilize Google AdMob to serve advertisements within IslaMap. AdMob may collect device information and other data as specified in their privacy policy.
+   - We utilize Google AdMob to serve advertisements within Islamap. AdMob may collect device information and other data as specified in their privacy policy.
    - For more information on how AdMob collects and uses data, please refer to the [Google AdMob Privacy Policy](https://support.google.com/admob/answer/6128543).
 
 2. **Google Services**
